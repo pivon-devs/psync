@@ -1,6 +1,6 @@
 <div align="center">
 
-# psync
+# [psync](https://getpsync.vercel.app)
 
 **Synchronized lyrics API. Word-level, line-level, or plain.**
 
@@ -9,7 +9,7 @@ A single serverless endpoint that resolves lyrics from seven providers, normalis
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-Functions-000?logo=vercel&logoColor=white)](https://vercel.com/docs/functions)
 [![Node](https://img.shields.io/badge/Node-20+-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 
 </div>
 
