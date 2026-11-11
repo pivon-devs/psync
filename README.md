@@ -174,6 +174,6 @@ GET /api/health
 - [lrc.red](https://lrc.red) by w4v
 - [Unison](https://github.com/better-lyrics/unison)
 - [LRCLIB](https://github.com/tranxuanthang/lrclib)
-- [Musixmatch](https://www.musixmatch.com), [Deezer](https://www.deezer.co
+- [Musixmatch](https://www.musixmatch.com), [Deezer](https://www.deezer.co)
 
 **For token, join our discord server - https://discord.gg/GguYzY9d3**
